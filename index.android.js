@@ -17,7 +17,7 @@ export default class Albums extends Component {
     render() {
         return (
             <View style = {{flex:1}}>
-              <Header headerText={'My Text'}/>
+              <Header headerText={'Albums Learn App'}/>
               <AlbumList/>
             </View>
 
